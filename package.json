@@ -1,0 +1,27 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "ce repo contient une application express.js de type \"hello word\" pour téster le déploiement.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmaCremeaux/expressjs.git"
+  },
+  "keywords": [
+    "appli",
+    "test",
+    "déploiement"
+  ],
+  "author": "Emma Crémeaux <emmacremeauxdev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmmaCremeaux/expressjs/issues"
+  },
+  "homepage": "https://github.com/EmmaCremeaux/expressjs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
